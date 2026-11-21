@@ -13,7 +13,7 @@ Não sabe como instalar e configurar os overlays redondos? Assista ao **tutorial
 
 <p align="center">
   <a href="https://youtu.be/F94B_09R5fs" title="Assistir ao tutorial de facecams redondas no OBS Studio">
-    <img src="https://img.youtube.com/vi/F94B_09R5fs/maxresdefault.jpg" alt="Capa do tutorial Guia do Streamer — Facecam estilo GTA 6, overlays redondos estáticos e animados no OBS Studio" width="900">
+    <img src="assets/capa-tutorial-facecams-gta6.png" alt="Capa do tutorial Guia do Streamer — Facecam estilo GTA 6, overlays redondos estáticos e animados no OBS Studio" width="900">
   </a>
 </p>
 
@@ -84,6 +84,8 @@ facecams-redondas-estilo-gta6/
 ├── LICENSE.txt
 ├── CHANGELOG.md
 ├── .gitignore
+├── assets/
+│   └── capa-tutorial-facecams-gta6.png
 ├── estaticas/
 │   ├── facecam redonda estatica 1(1).png
 │   ├── facecam redonda estatica 2(1).png
