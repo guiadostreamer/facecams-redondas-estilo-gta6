@@ -41,6 +41,8 @@ A estética reúne neon rosa, roxo, azul, pôr do sol, palmeiras, cidade litorâ
 
 **Importante:** os arquivos deste pacote são **overlays**, não máscaras de recorte. A máscara circular deve ser criada/obtida separadamente; ela não faz parte dos 10 anexos deste pacote.
 
+Tutorial Guia do Streamer para recortar webcam redonda: [https://youtu.be/ZETAlPXif2k](https://youtu.be/ZETAlPXif2k)
+
 ### 2. Use uma facecam estática (PNG)
 
 1. Em **Fontes**, clique no botão **+** e escolha **Imagem**.
