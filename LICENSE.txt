@@ -1,0 +1,165 @@
+LICENÇA DE USO GRATUITO COM RESTRIÇÕES
+FACECAMS REDONDAS — ESTILO GTA 6 | ESTÁTICAS E ANIMADAS
+
+Versão da licença: 1.0
+Data: 21 de novembro de 2026
+Identificador do projeto: GDS-FACECAM-REDONDA-NEON-2026-01
+
+Copyright © 2026 Leonardo — Guia do Streamer.
+Todos os direitos reservados.
+
+Direção criativa, conceito, personalização e publicação:
+Leonardo — Guia do Streamer.
+Recursos visuais desenvolvidos com auxílio de ferramentas de Inteligência Artificial.
+
+
+1. OBJETO E ESCOPO
+
+Esta licença aplica-se exclusivamente à coleção “Facecams Redondas — Estilo
+GTA 6 | Estáticas e Animadas”, identificada pelo código
+GDS-FACECAM-REDONDA-NEON-2026-01 e distribuída no repositório oficial
+mantido pelo Guia do Streamer.
+
+Seu escopo inclui os cinco arquivos PNG estáticos, os cinco arquivos WEBM
+animados, suas composições visuais originais, textos e documentação.
+
+O repositório é público para permitir downloads, mas os arquivos NÃO estão em
+domínio público, NÃO são disponibilizados sob a licença MIT e NÃO estão sob
+licença de código aberto ou outra licença que permita livre redistribuição.
+
+
+2. PERMISSÃO DE USO
+
+É concedida licença gratuita, não exclusiva, pessoal e intransferível para:
+
+a) utilizar as facecams em transmissões pessoais e monetizadas;
+
+b) exibir os overlays em gravações, vídeos, capturas de tela e materiais de
+   divulgação relacionados às próprias transmissões;
+
+c) importar os PNGs como imagens e os WEBMs como fontes de mídia em softwares
+   de gravação e transmissão compatíveis;
+
+d) ajustar tamanho, posição, cores e efeitos para uso próprio;
+
+e) adaptar os arquivos para encaixar a própria webcam, inclusive com ajuda
+   de ferramentas de Inteligência Artificial, desde que não haja publicação,
+   distribuição ou comercialização da versão modificada.
+
+
+3. RESTRIÇÕES
+
+Sem autorização prévia e escrita de Leonardo — Guia do Streamer, é proibido:
+
+a) redistribuir, republicar, compartilhar ou disponibilizar os arquivos
+   originais ou modificados em sites, repositórios, grupos, fóruns, serviços
+   de armazenamento, redes sociais ou outros canais;
+
+b) criar repositórios espelho, páginas alternativas de download, pacotes,
+   coleções, compilações ou templates contendo os arquivos;
+
+c) fazer reupload de PNGs, WEBMs ou versões derivadas;
+
+d) vender, revender, alugar, sublicenciar, doar como pacote ou comercializar
+   os arquivos, individualmente ou em conjunto com outros produtos;
+
+e) incorporar os arquivos a packs, cursos, serviços, templates e produtos,
+   gratuitos ou pagos, destinados a terceiros;
+
+f) publicar versões derivadas, conversões, adaptações ou outras reformulações
+   que reproduzam elementos substanciais desta coleção;
+
+g) usar os arquivos como referência direta em ferramentas de Inteligência
+   Artificial com a finalidade de gerar versões para redistribuição, revenda
+   ou apresentação sob outra autoria;
+
+h) remover, ocultar, adulterar ou substituir avisos de autoria, licença e
+   identificação da coleção;
+
+i) atribuir a si ou a terceiros a autoria destas artes específicas;
+
+j) empregar a marca Guia do Streamer de forma que sugira autorização,
+   endosso, patrocínio ou parceria inexistente.
+
+
+4. MODIFICAÇÕES PARA USO PRÓPRIO
+
+As modificações autorizadas destinam-se somente ao uso pelo próprio usuário.
+Permissão para modificar não autoriza disponibilizar, distribuir, comercializar
+ou fornecer a terceiros a versão modificada.
+
+
+5. COMPARTILHAMENTO CORRETO
+
+Para recomendar esta coleção, compartilhe somente o endereço oficial:
+https://github.com/guiadostreamer/facecams-redondas-estilo-gta6
+
+O acesso ao repositório público não cria autorização para revenda,
+redistribuição, espelhamento ou troca de autoria.
+
+
+6. AUTORIA E REGISTRO TÉCNICO
+
+O identificador GDS-FACECAM-REDONDA-NEON-2026-01 refere-se apenas à coleção
+identificada acima. Os arquivos originais, datas de publicação, histórico de
+commits, tags e releases podem ajudar a documentar a evolução do projeto.
+
+A licença de uso não transfere titularidade ou autoria ao usuário.
+
+
+7. DIREITOS DE TERCEIROS E PROJETO INDEPENDENTE
+
+Este material é uma criação independente inspirada apenas na estética de
+GTA 6. Não é um produto oficial, licenciado, aprovado ou patrocinado pela
+Rockstar Games ou Take-Two Interactive.
+
+Grand Theft Auto, GTA, Rockstar Games e Take-Two Interactive são nomes e
+marcas de seus respectivos titulares. OBS Studio e outras marcas citadas
+também pertencem aos respectivos proprietários.
+
+Esta licença não concede direitos sobre marcas, personagens, músicas,
+logotipos ou demais materiais de terceiros. Os direitos preexistentes de
+terceiros devem ser respeitados independentemente deste documento.
+
+
+8. AUSÊNCIA DE GARANTIAS
+
+Os arquivos são fornecidos no estado em que se encontram, sem garantia de
+funcionamento contínuo, compatibilidade universal, desempenho ou adequação
+a finalidade específica. Suporte à transparência WEBM/VP9 depende do
+software e de sua configuração.
+
+
+9. VIOLAÇÃO E ENCERRAMENTO
+
+O descumprimento destes termos encerra a autorização de uso concedida ao
+infrator, sem prejuízo das medidas cabíveis. O infrator deverá cessar os
+usos não autorizados e retirar as cópias indevidamente publicadas.
+
+
+10. AUTORIZAÇÕES EXCEPCIONAIS
+
+Qualquer uso não previsto expressamente nesta licença depende de autorização
+prévia e escrita de Leonardo — Guia do Streamer. A ausência de resposta não
+representa autorização.
+
+
+11. ACEITAÇÃO
+
+O uso ou a cópia destes arquivos pressupõe a aceitação destes termos. Caso
+não concorde, o usuário não deverá utilizá-los ou copiá-los.
+
+
+12. LIMITES DA PROTEÇÃO
+
+Esta licença se refere aos arquivos e às composições originais específicas
+desta coleção. Não reivindica exclusividade sobre ideias genéricas como
+facecams redondas, molduras neon, paisagens tropicais, estilos artísticos,
+técnicas de animação ou elementos de domínio de terceiros.
+
+
+Projeto: Facecams Redondas — Estilo GTA 6 | Estáticas e Animadas
+Coleção inicial: 1.0.0
+Identificador: GDS-FACECAM-REDONDA-NEON-2026-01
+Responsável: Leonardo — Guia do Streamer
+Copyright © 2026. Todos os direitos reservados.
