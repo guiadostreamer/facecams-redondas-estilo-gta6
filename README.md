@@ -7,6 +7,22 @@ A estética reúne neon rosa, roxo, azul, pôr do sol, palmeiras, cidade litorâ
 > **AVISO DE DIREITOS AUTORAIS E LICENÇA**  
 > Este repositório é público para facilitar o download, mas seus arquivos **não estão em domínio público** e **não possuem licença para redistribuição**. O uso das facecams é gratuito somente nas condições descritas neste README e no arquivo [`LICENSE.txt`](LICENSE.txt). **Não é uma licença MIT.**
 
+## Vídeo tutorial — Como usar as facecams no OBS Studio
+
+Não sabe como instalar e configurar os overlays redondos? Assista ao **tutorial do Guia do Streamer**, com orientações para usar as versões **estáticas (PNG)** e **animadas (WEBM)** no OBS Studio.
+
+<p align="center">
+  <a href="https://youtu.be/F94B_09R5fs" title="Assistir ao tutorial de facecams redondas no OBS Studio">
+    <img src="https://img.youtube.com/vi/F94B_09R5fs/maxresdefault.jpg" alt="Capa do tutorial Guia do Streamer — Facecam estilo GTA 6, overlays redondos estáticos e animados no OBS Studio" width="900">
+  </a>
+</p>
+
+<p align="center">
+  <strong>▶ Clique na capa para assistir ao tutorial completo no YouTube.</strong>
+</p>
+
+**Link direto:** https://youtu.be/F94B_09R5fs
+
 ## Prévia dos modelos
 
 | Modelo | Prévia estática | Arquivos para download |
